@@ -1,8 +1,8 @@
 {
-    "name": "predis/predis",
+    "name": "vanthink/predis",
     "type": "library",
     "description": "Flexible and feature-complete Redis client for PHP and HHVM",
-    "keywords": ["nosql", "redis", "predis"],
+    "keywords": [],
     "homepage": "http://github.com/nrk/predis",
     "license": "MIT",
     "support": {
@@ -10,9 +10,9 @@
     },
     "authors": [
         {
-            "name": "Daniele Alessandri",
-            "email": "suppakilla@gmail.com",
-            "homepage": "http://clorophilla.net"
+            "name": "vanthink",
+            "email": "vanthink@vanthink.com",
+            "homepage": "http://github.com/nrk/predis"
         }
     ],
     "require": {
